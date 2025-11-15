@@ -1,0 +1,290 @@
+================================================================================
+WEYN - Facebook Bulk Token Generator Results
+Generated: 2025-11-15 05:37:46
+================================================================================
+
+
+================================================================================
+UID: 61583678189227
+Status: FAILED
+
+Error: Invalid username or password (401)
+================================================================================
+
+================================================================================
+UID: 61583325915344
+Status: FAILED
+
+Error: Invalid username or password (401)
+================================================================================
+
+================================================================================
+UID: 61583604691916
+Status: SUCCESS
+
+Access Token:
+EAAAAUaZA8jlABP1NSN6wTKQbnlixfeJY2QPBit7HuoH9OpRdibAFe1HdDKJRGKlSZCD3ZBZA8alr0dS2KkqmyhHXNx5a8PoDtJ5ySA2ZC4aU6Qdll6JxFn287czHriEJSo1qvluZCEYPR1X6kmlZB0MLUh4Ij4Dz4sjUJpN49EJFNCCO5JZClWqkrcHolBQi5VrHgnzTxgZDZD
+
+Cookie:
+c_user=61583604691916; xs=24:Dojblf9b4oMCtA:2:1763185044:-1:-1; fr=02dGxLH8SW1YsGZzs.AWfz-vkgbrK1fdhsQ20yrB_bhQfIdn4HVWx7nTR_IqwDpQUbVTo.BpGBGT..AAA.0.0.BpGBGT.AWd6s3_0inL7o-hl9xtfMZLAzTk; datr=kxEYaTP2qqksGwxhfqWvFFbH
+
+C_USER: 61583604691916
+DATR: kxEYaTP2qqksGwxhfqWvFFbH
+
+AppState:
+[
+  {
+    "key": "c_user",
+    "value": "61583604691916",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": false,
+    "httpOnly": false
+  },
+  {
+    "key": "xs",
+    "value": "24:Dojblf9b4oMCtA:2:1763185044:-1:-1",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": false,
+    "httpOnly": false
+  },
+  {
+    "key": "fr",
+    "value": "02dGxLH8SW1YsGZzs.AWfz-vkgbrK1fdhsQ20yrB_bhQfIdn4HVWx7nTR_IqwDpQUbVTo.BpGBGT..AAA.0.0.BpGBGT.AWd6s3_0inL7o-hl9xtfMZLAzTk",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": false,
+    "httpOnly": false
+  },
+  {
+    "key": "datr",
+    "value": "kxEYaTP2qqksGwxhfqWvFFbH",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": false,
+    "httpOnly": false
+  }
+]
+================================================================================
+
+================================================================================
+UID: 61583653530026
+Status: SUCCESS
+
+Access Token:
+EAAAAUaZA8jlABP6QTgZBCbbsuslYPZAyOtGgWqIzteTvctxsysmGg6BozUUEN0sftN5qUPPD9OJdNYS7wkYdZCLCWEVIU6FoayO5gpCp01Jv5m38emT0Nt2bkKiPcw7wWTxJMKzC5vQ6AxEORZCIZCv37Ir3Wv3DPYEFck1iNZBnWZCNcYr1UX698RYu2NkPrcFC3zZCILwZDZD
+
+Cookie:
+c_user=61583653530026; xs=35:aSAN3CNGsA-tvQ:2:1763185047:-1:-1; fr=06PIljcvvrYh20sCM.AWcGYFIo6HNKhplohMeLE4o6b37xaefHb74zQcX9AsAfHur-BFc.BpGBGW..AAA.0.0.BpGBGW.AWdW4lSJ0P7X9BbGN2HQtvgLVHc; datr=lhEYaV2fMMwUaAcHFMY8FNYu
+
+C_USER: 61583653530026
+DATR: lhEYaV2fMMwUaAcHFMY8FNYu
+
+AppState:
+[
+  {
+    "key": "c_user",
+    "value": "61583653530026",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": false,
+    "httpOnly": false
+  },
+  {
+    "key": "xs",
+    "value": "35:aSAN3CNGsA-tvQ:2:1763185047:-1:-1",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": false,
+    "httpOnly": false
+  },
+  {
+    "key": "fr",
+    "value": "06PIljcvvrYh20sCM.AWcGYFIo6HNKhplohMeLE4o6b37xaefHb74zQcX9AsAfHur-BFc.BpGBGW..AAA.0.0.BpGBGW.AWdW4lSJ0P7X9BbGN2HQtvgLVHc",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": false,
+    "httpOnly": false
+  },
+  {
+    "key": "datr",
+    "value": "lhEYaV2fMMwUaAcHFMY8FNYu",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": false,
+    "httpOnly": false
+  }
+]
+================================================================================
+
+================================================================================
+UID: 61583645970354
+Status: SUCCESS
+
+Access Token:
+EAAAAUaZA8jlABP9ZA8WoA3kfhkC8SnYCpJZBx3xUgMgcPMD3fYwdJ3htcBLZCWNSNrM0kZA6n0lCnA7eipjBjHn9AXuZAVEpIDtCTpA23eFqmuGy3zu0xJ6is5ubmAZBA2LPZCT5MleAkmcRfffuc0a71auVZAlD6htLtHDDFyd1YxZAcJuZAL7VNcdprNCv5sVlMIDqbV0EQZDZD
+
+Cookie:
+c_user=61583645970354; xs=37:3WPDsAbQmtDYTw:2:1763185049:-1:-1; fr=0hK9gCqMziPVFVZm7.AWeNaRNU7LOfKHW-xxEUx80KyTwNZrc13Yoiymr07b2MNbwGFfs.BpGBGY..AAA.0.0.BpGBGY.AWfcsJOu9EUgTQrxwamvP-RQKC4; datr=mBEYaf9QfGx-u3mByr4Isq79
+
+C_USER: 61583645970354
+DATR: mBEYaf9QfGx-u3mByr4Isq79
+
+AppState:
+[
+  {
+    "key": "c_user",
+    "value": "61583645970354",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": false,
+    "httpOnly": false
+  },
+  {
+    "key": "xs",
+    "value": "37:3WPDsAbQmtDYTw:2:1763185049:-1:-1",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": false,
+    "httpOnly": false
+  },
+  {
+    "key": "fr",
+    "value": "0hK9gCqMziPVFVZm7.AWeNaRNU7LOfKHW-xxEUx80KyTwNZrc13Yoiymr07b2MNbwGFfs.BpGBGY..AAA.0.0.BpGBGY.AWfcsJOu9EUgTQrxwamvP-RQKC4",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": false,
+    "httpOnly": false
+  },
+  {
+    "key": "datr",
+    "value": "mBEYaf9QfGx-u3mByr4Isq79",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": false,
+    "httpOnly": false
+  }
+]
+================================================================================
+
+================================================================================
+UID: 61583648430252
+Status: FAILED
+
+Error: Invalid username or password (401)
+================================================================================
+
+================================================================================
+UID: 61583861183819
+Status: FAILED
+
+Error: Invalid username or password (401)
+================================================================================
+
+================================================================================
+UID: 61583841414840
+Status: SUCCESS
+
+Access Token:
+EAAAAUaZA8jlABPwR0m4FEHEk3mTzGFHNBpvmoY3GpUZAmGFY7ZCOTTBWLbqCaLThotVBf6dzGV2ogX1t1BO0fMZBOxZCAYQH6X0s01x9BZAZA5pWRZBFcDJThZCcrNkxshQ8oKyyHuNuxFrbDj2TG1irxZCsSHu9ZCQmy97JCj2PnGLdRmrN7R47Nuh4pdUvYS3iZCCJQ3AZBFwZDZD
+
+Cookie:
+c_user=61583841414840; xs=13:csj-i5SzxSSTEw:2:1763185058:-1:-1; fr=0HdaPMPxz2VxI2AhO.AWd92_8Zbzig55Q1GdrTNmPXv-F7KRwtdMehHpfoXObvkRrJT0w.BpGBGh..AAA.0.0.BpGBGh.AWcAkiJMkmQmY6ruZ9LSIkN8unc; datr=oREYaSDebEe5JmXoXkFcrwEz
+
+C_USER: 61583841414840
+DATR: oREYaSDebEe5JmXoXkFcrwEz
+
+AppState:
+[
+  {
+    "key": "c_user",
+    "value": "61583841414840",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": false,
+    "httpOnly": false
+  },
+  {
+    "key": "xs",
+    "value": "13:csj-i5SzxSSTEw:2:1763185058:-1:-1",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": false,
+    "httpOnly": false
+  },
+  {
+    "key": "fr",
+    "value": "0HdaPMPxz2VxI2AhO.AWd92_8Zbzig55Q1GdrTNmPXv-F7KRwtdMehHpfoXObvkRrJT0w.BpGBGh..AAA.0.0.BpGBGh.AWcAkiJMkmQmY6ruZ9LSIkN8unc",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": false,
+    "httpOnly": false
+  },
+  {
+    "key": "datr",
+    "value": "oREYaSDebEe5JmXoXkFcrwEz",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": false,
+    "httpOnly": false
+  }
+]
+================================================================================
+
+================================================================================
+UID: 61583429109639
+Status: FAILED
+
+Error: Invalid username or password (401)
+================================================================================
+
+================================================================================
+UID: 61583598002834
+Status: SUCCESS
+
+Access Token:
+EAAAAUaZA8jlABP5dYN2ZAufCMfNp6ubLxZATdfUDQ8aZAhqO98vUOf7LiqJDoXTN02feCBa0ZBj1L7hPgWR3z3Wm89E9rfF1mZCGGZAqzvCbwEPymZC5xZAyDrEZA5QYDEDAcLipgQtPjmfBjkiVp5f7rgPASq8VfEIZAXJihe7v0ipQ7gdpeO9QIlicdx8FrMFNNkvZABnMjiccmgZDZD
+
+Cookie:
+c_user=61583598002834; xs=5:rum_Kw07MEETkA:2:1763185064:-1:-1; fr=07ZerV0so8ySll1L0.AWdOGsThU3PTIKH4wULa07KsHkaG_F3Gy1lOasM7POl2IogdFKU.BpGBGn..AAA.0.0.BpGBGn.AWcmbbWnbnpEuolxbDzy7ZBUYvg; datr=pxEYaSZzmgTf7xHW-pQN8YGu
+
+C_USER: 61583598002834
+DATR: pxEYaSZzmgTf7xHW-pQN8YGu
+
+AppState:
+[
+  {
+    "key": "c_user",
+    "value": "61583598002834",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": false,
+    "httpOnly": false
+  },
+  {
+    "key": "xs",
+    "value": "5:rum_Kw07MEETkA:2:1763185064:-1:-1",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": false,
+    "httpOnly": false
+  },
+  {
+    "key": "fr",
+    "value": "07ZerV0so8ySll1L0.AWdOGsThU3PTIKH4wULa07KsHkaG_F3Gy1lOasM7POl2IogdFKU.BpGBGn..AAA.0.0.BpGBGn.AWcmbbWnbnpEuolxbDzy7ZBUYvg",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": false,
+    "httpOnly": false
+  },
+  {
+    "key": "datr",
+    "value": "pxEYaSZzmgTf7xHW-pQN8YGu",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": false,
+    "httpOnly": false
+  }
+]
+================================================================================

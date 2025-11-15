@@ -1,0 +1,55 @@
+================================================================================
+WEYN - Facebook Bulk Token Generator Results
+Generated: 2025-11-15 05:32:07
+================================================================================
+
+
+================================================================================
+UID: 61583621137312
+Status: SUCCESS
+
+Access Token:
+EAAAAUaZA8jlABP4FVXgwAnjvS0aoTEF2DNn0S0iIe55qtyW4jKTF4GkKznsu3NGGKfePdAn4hNbbSazdYbkBr7lMrw675ImvawZBRgpzbff2yThSsJuGHUww6u3lb4XVZBZBHyhuc67s5UX0I9xZALTfrpv57zsUkavqQVa40UsfQiU7KWjxoyZAiuMl84NwyRWg5WvQZDZD
+
+Cookie:
+c_user=61583621137312; xs=6:a-LQ6IR_vy_SlA:2:1763184725:-1:-1; fr=0C5vY0jEOul5LOa43.AWdVIaTvODgESSK0qOz5zLb-ZUAhzblxY7yyzXlLSWIfK7kbGS4.BpGBBV..AAA.0.0.BpGBBV.AWd0XoStExxgxmxuKD6-u2Ds0vc; datr=VRAYaefluz395Mt9oauAHnWA
+
+C_USER: 61583621137312
+DATR: VRAYaefluz395Mt9oauAHnWA
+
+AppState:
+[
+  {
+    "key": "c_user",
+    "value": "61583621137312",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": false,
+    "httpOnly": false
+  },
+  {
+    "key": "xs",
+    "value": "6:a-LQ6IR_vy_SlA:2:1763184725:-1:-1",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": false,
+    "httpOnly": false
+  },
+  {
+    "key": "fr",
+    "value": "0C5vY0jEOul5LOa43.AWdVIaTvODgESSK0qOz5zLb-ZUAhzblxY7yyzXlLSWIfK7kbGS4.BpGBBV..AAA.0.0.BpGBBV.AWd0XoStExxgxmxuKD6-u2Ds0vc",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": false,
+    "httpOnly": false
+  },
+  {
+    "key": "datr",
+    "value": "VRAYaefluz395Mt9oauAHnWA",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": false,
+    "httpOnly": false
+  }
+]
+================================================================================
