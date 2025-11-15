@@ -5,8 +5,13 @@ import os
 import sys
 from datetime import datetime
 
+PURPLE = '\033[95m'
+GREEN = '\033[92m'
+RED = '\033[1;91m'
+RESET = '\033[0m'
+
 def print_banner():
-    banner = """
+    banner = f"""{PURPLE}
 ╔══════════════════════════════════════════════╗
 ║                                              ║
 ║          ██╗    ██╗███████╗██╗   ██╗███╗   ██╗          ║
@@ -16,11 +21,11 @@ def print_banner():
 ║          ╚███╔███╔╝███████╗   ██║   ██║ ╚████║          ║
 ║           ╚══╝╚══╝ ╚══════╝   ╚═╝   ╚═╝  ╚═══╝          ║
 ║                                              ║
-╚══════════════════════════════════════════════╝
+╚══════════════════════════════════════════════╝{RESET}
 
-        FACEBOOK TOKEN GETTER
+{RED}        FACEBOOK TOKEN GETTER
         
-Format: uid|password or email|password
+Format: uid|password or email|password{RESET}
     """
     print(banner)
 
@@ -147,8 +152,8 @@ def process_accounts(accounts):
         result = get_facebook_token(uid, password)
         
         if result['success']:
-            print("✓ SUCCESS")
-            print(f"    {uid}|{result['token']}")
+            print(f"{GREEN}✓ SUCCESS{RESET}")
+            print(f"{GREEN}    {uid}|{result['token']}{RESET}")
             successful += 1
             results.append({
                 'uid': uid,
@@ -160,7 +165,7 @@ def process_accounts(accounts):
                 'appstate': result['appstate']
             })
         else:
-            print(f"✗ FAILED: {result['error']}")
+            print(f"{RED}✗ FAILED: {result['error']}{RESET}")
             failed += 1
             results.append({
                 'uid': uid,
@@ -207,17 +212,17 @@ def save_results(results, total_accounts, successful, failed):
     print(f"\n{'='*80}")
     print(f"[*] Processing Complete!")
     print(f"[*] Total Accounts: {total_accounts}")
-    print(f"[*] Successful: {successful}")
-    print(f"[*] Failed: {failed}")
+    print(f"[*] Successful: {GREEN}{successful}{RESET}")
+    print(f"[*] Failed: {RED}{failed}{RESET}")
     if total_accounts > 0:
         print(f"[*] Success Rate: {(successful/total_accounts*100):.1f}%")
     
     if successful > 0:
-        print(f"\n[*] ALL TOKENS (uid|token format):")
+        print(f"\n{GREEN}[*] ALL TOKENS (uid|token format):{RESET}")
         print(f"{'='*80}")
         for result in results:
             if result['status'] == 'success':
-                print(f"{result['uid']}|{result['token']}")
+                print(f"{GREEN}{result['uid']}|{result['token']}{RESET}")
         print(f"{'='*80}")
     
     print(f"\n[*] 📁 Results saved to:")
@@ -225,7 +230,7 @@ def save_results(results, total_accounts, successful, failed):
     print(f"    - {tokens_file} (tokens only)")
     
     if successful > 0:
-        print(f"\n[*] ✅ {successful} token(s) successfully generated!")
+        print(f"\n{GREEN}[*] ✅ {successful} token(s) successfully generated!{RESET}")
     
     print(f"{'='*80}\n")
 
